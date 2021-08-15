@@ -28,7 +28,8 @@ My project is conducted in Uadicty VM workpalce and my local computer workplace,
 
 **Python Packages**
 *I simply use pandas, numpy and so on to compute and process data.
-*I use sklearn, specificly preprocessing methods, PCA, and Kmeans to finish unsupervised learning and utilize XGBoost to build supervised learning model.
+*I use sklearn, specificly preprocessing methods, PCA, and Kmeans to finish unsupervised learning and utilize XGBoost to build supervised learning model. 
+*In another type I wrote neural networks for model training in pytorch, but it is not listed in this project.
 
 
 
