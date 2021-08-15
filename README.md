@@ -23,13 +23,13 @@ This group of data have no results, and is used for Kaggle Competition.
 My project is conducted in Uadicty VM workpalce and my local computer workplace, and my tools are all from python packages.
 
 **Udaicty VM Workplace and Local Workplace**
-*I did most of the project here, from preprocessing data, researching data to conducting PCA, unsupervised learning and supervised learning.
-*I use my local workplace to do hyperparamter tunning to promote efficiency.
+* I did most of the project here, from preprocessing data, researching data to conducting PCA, unsupervised learning and supervised learning.
+* I use my local workplace to do hyperparamter tunning to promote efficiency.
 
 **Python Packages**
-*I simply use pandas, numpy and so on to compute and process data.
-*I use sklearn, specificly preprocessing methods, PCA, and Kmeans to finish unsupervised learning and utilize XGBoost to build supervised learning model. 
-*In another type I wrote neural networks for model training in pytorch, but it is not listed in this project.
+* I simply use pandas, numpy and so on to compute and process data.
+* I use sklearn, specificly preprocessing methods, PCA, and Kmeans to finish unsupervised learning and utilize XGBoost to build supervised learning model. 
+* In another type I wrote neural networks for model training in pytorch, but it is not listed in this project.
 
 
 
